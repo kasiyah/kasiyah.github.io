@@ -1,7 +1,7 @@
 ---
 title: EO CPA Tax & Bookkeeping Services
 date: 2024-03-18 12:00:00 -500
-categories: [Taxes & Bookkeeping Services]
+categories: [Taxes, Bookkeeping Services]
 tags: [taxes, cpa, bookkeeping, taxreturns, irs]
 ---
 
