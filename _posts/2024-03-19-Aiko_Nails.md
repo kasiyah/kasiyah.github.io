@@ -1,7 +1,7 @@
 ---
 title: Aiko Nails
 date: 2024-03-18 12:00:00 -500
-categories: [Beauty, Nails]
+categories: [Nails, Beauty]
 tags: [nails, manicure, pedicure]
 ---
 
