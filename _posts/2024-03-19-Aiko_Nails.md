@@ -2,7 +2,7 @@
 title: Aiko Nails
 date: 2024-03-18 12:00:00 -500
 categories: [Beauty, Nails]
-tags: [nails, manicure, pedicure]
+tags: [nails, manicure, pedicure, north]
 ---
 
 # E-File Russian Manicure and Pedicure Services Studio
