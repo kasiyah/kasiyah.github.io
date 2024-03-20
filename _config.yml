@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Austin KZ # the main title
 
-tagline: KZ friednly directory around Austin!!! # it will display as the sub-title
+tagline: KZ friednly directory around Austin! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is a basic directory created by Austin KZ Girls to better navigate around Austin and its surrounding areas.
