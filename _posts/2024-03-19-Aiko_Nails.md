@@ -11,6 +11,8 @@ tags: [nails, manicure, pedicure, north]
 
 Elevate your nail care with Russian manicures/pedicures
 
+![img-description](/images/AikoNails.jpg)
+
 Welcome to Aiko Nails LLC - a studio specializing in detailed e-file manicures and pedicures, also know as Russian manicures/pedicures. A Russian manicure, also known as a "dry manicure" or "e-file manicure," is a specialized nail care technique that focuses on meticulous cuticle and nail plate maintenance.
 
 
