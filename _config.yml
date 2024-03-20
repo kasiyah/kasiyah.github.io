@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://kasiyah.github.io"
 
 github:
-  username: kasiyah # change to your github username
+  username: github_username # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
