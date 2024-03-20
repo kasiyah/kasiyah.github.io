@@ -29,7 +29,7 @@ Services:
 
 ![img-description](/images/YourMajesty.jpg)
 
-### About the founder:
+## About the founder:
 
 Renata is the Founder of “Your Majesty” beauty salon. 
 
