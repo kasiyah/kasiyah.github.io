@@ -1,13 +1,13 @@
 ---
 title: EO CPA Tax & Bookkeeping Services
 date: 2024-03-18 12:00:00 -500
-categories: [Taxes, Bookkeeping & Notary Services]
-tags: [taxes, cpa, bookkeeping, taxreturns]
+categories: [Taxes & Bookkeeping Services]
+tags: [taxes, cpa, bookkeeping, taxreturns, irs]
 ---
 
 # Taxes, Bookkeeping, Consultations
 
-[https://e-taxcpa.com](https://e-taxcpa.com)
+[www.e-taxcpa.com](https://e-taxcpa.com)
 
 Our tax preparation services include
 * Individual Tax Preparation
