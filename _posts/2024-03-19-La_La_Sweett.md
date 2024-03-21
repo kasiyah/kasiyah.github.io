@@ -2,7 +2,7 @@
 title: La LA Sweett
 date: 2024-03-19 12:00:00 -500
 categories: [Desserts]
-tags: [desserts, sweets, cakes, food. popup]
+tags: [desserts, sweets, cakes, food, popup, north]
 ---
 
 # The sweet cake in Austin
