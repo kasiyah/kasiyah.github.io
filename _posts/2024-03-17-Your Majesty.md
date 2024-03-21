@@ -1,6 +1,6 @@
 ---
 title: Your Majesty
-date: 2024-03-18 12:00:00 -500
+date: 2024-03-17 12:00:00 -500
 categories: [Beauty, Hair, Nails, Makeup]
 tags: [hairstyle, makeup, nails, skincare, hair, brows, lashes, north]
 ---
