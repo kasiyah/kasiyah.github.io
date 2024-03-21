@@ -26,4 +26,4 @@ Cupcake shop
 Contacts:
 * Phone: +1 (224) 237-5853
 * [WhatsApp](https://api.whatsapp.com/send?phone=12242375853)
-* [FB](https://www.instagram.com/la_la_sweett/)
+* [IG](https://www.instagram.com/la_la_sweett/)
