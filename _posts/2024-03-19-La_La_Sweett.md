@@ -9,9 +9,8 @@ tags: [desserts, sweets, cakes, food. popup]
 
 [www.organicbakeryaustin.com](https://organicbakeryaustin.com/)
 
-![avatar](/images/lalasweett.jpg)
 
-![Load](/images/lalasweett.jpg){:height="70px" width="70px"}
+![img-description](/images/lalasweett.jpg){:height="210px" width="210px"}
 
 
 Cupcake shop
@@ -19,7 +18,7 @@ Cupcake shop
 * Delicious cakes made from natural products
 
 
-# My name is Akmaral and I am from Kazakhstan
+## My name is Akmaral and I am from Kazakhstan
 
 ![img-description](/images/lalaswett1.jpg)
 

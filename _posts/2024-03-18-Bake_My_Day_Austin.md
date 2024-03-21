@@ -15,7 +15,7 @@ Event Cakes | Wedding Cakes | Birthday Cakes | Austin, TX
 * Crafting Organic, Delicious, European-inspired custom cakes
 * Check our website or IG for details
 
-![img-description](/images/bluebonnets.jpg)
+![img-description](/images/bakemyday.jpg){:height="210px" width="210px"}
 
 Crafting Sweet Memories Tailored Just for You
 
