@@ -28,6 +28,6 @@ When she is not working, she enjoys spending time with her family, traveling the
 
 [IG in English](https://www.instagram.com/cpa.osani/?igsh=MWk2aGc2ZWQ4cGVsdQ%3D%3D)
 
-[IG i Russian](https://www.instagram.com/us.tax/?igsh=MXBuaW5yanBqdzJwbw%3D%3D)
+[IG in Russian](https://www.instagram.com/us.tax/?igsh=MXBuaW5yanBqdzJwbw%3D%3D)
 
 [LinkedIn](https://www.linkedin.com/in/ekaterina-osani-cpa-ea-a801a5a7/)

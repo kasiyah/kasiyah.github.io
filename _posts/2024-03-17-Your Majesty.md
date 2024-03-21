@@ -56,6 +56,7 @@ Contacts:
 * Address: 13091 Pond Spring Rd. Suite #250, Austin, TX 78729
 * Phone: (512)-781-3247
 * E-mail: salonyourmajesty@gmail.com
+* [IG]: (https://www.instagram.com/yourmajestysalon/)
 
 Hours:
 
