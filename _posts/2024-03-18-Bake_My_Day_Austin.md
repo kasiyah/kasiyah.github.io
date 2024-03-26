@@ -1,7 +1,7 @@
 ---
 title: Bake My Day Austin
 date: 2024-03-18 12:00:00 -500
-categories: [Desserts]
+categories: [Food, Desserts]
 tags: [desserts, sweets, cakes, food, north]
 ---
 
