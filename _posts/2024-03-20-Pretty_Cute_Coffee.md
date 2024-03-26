@@ -1,7 +1,7 @@
 ---
 title: Pretty Cute Coffee
 date: 2024-03-20 12:00:00 -500
-categories: [Coffee]
+categories: [Food, Coffee]
 tags: [coffee, cute, pretty, foodtruck, mobile, catering, south, center]
 ---
 
